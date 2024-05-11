@@ -1,0 +1,17 @@
+
+/*Main*/
+main h3 {
+    display: flex;
+    justify-content: center;
+    background-color:#F28705;
+}
+
+#content-main {
+    width: 100%;
+    margin: 0 0.5rem;
+}
+
+#form-contact {
+    /*display: flex;*/
+
+}

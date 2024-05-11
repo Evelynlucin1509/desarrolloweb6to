@@ -1,0 +1,89 @@
+body {
+    margin: ;
+}
+
+/*Main*/
+
+#services-container {
+    margin: 0 0.5rem;
+}
+
+#services-container h2{
+    display: flex;
+    justify-content: center;
+    background-color: #F28705;
+    padding: 0.5rem 10rem;
+}
+
+#main-services {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem 0;
+}
+
+#main-services picture {
+    justify-self: center;
+
+}
+
+#main-services picture img{
+    width: 25rem;
+}
+
+.service {
+    background-color: #87D936;
+    display: grid;
+    padding: 1rem 2rem;
+}
+
+.service h3 {
+    display: flex;
+    justify-content: center;
+    background-color: #87D936;
+}
+
+.service p {
+    display: flex;
+    justify-content: center;
+}
+
+.service input {
+    display: flex;
+    justify-content: center;
+    margin: -0.5rem 5rem;
+}
+
+#services-description {
+    margin: 0.5rem 0.5rem;
+}
+
+#services-description h3 {
+    display: flex;
+    justify-content: center;
+    background-color: #F28705;
+}
+
+#services-imgs {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem 1rem;
+}
+
+.img-all-services {
+    padding: 4rem 4.5rem;
+}
+
+.img-all-services img{
+    width: 15rem;
+}
+
+#services-imgs h4 {
+    font-size: 1.5rem;
+    margin-bottom: 4rem;
+}
+
+#services-imgs h6 {
+    font-size: 1rem;
+    margin: 0.5rem 0rem -3rem 0rem;
+}
+

@@ -1,0 +1,46 @@
+
+/*Main*/
+
+#content-main {
+    width: 100%;
+    margin: 0 0.5rem;
+}
+
+main h3 {
+    display: flex;
+    justify-content: center;
+    background-color: #F28705;
+}
+
+main h6 {
+    display: flex;
+    justify-content: center;
+
+}
+
+#plants-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.plant-link {
+    justify-content: space-between;
+    margin: 0.5rem 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #87D936;
+}
+
+.plant-link picture h4 {
+    background-color: gray;
+    padding: 4rem 4.5rem;
+}
+
+.plant-link h5 {
+    margin: 0.5rem 1rem 0.5rem 0;
+}
+
+.info-plant-link {
+    display: flex;
+    justify-content: space-between;
+}
+

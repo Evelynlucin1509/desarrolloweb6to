@@ -1,0 +1,32 @@
+
+
+/*Main*/
+
+#content-main {
+    width: 100%;
+    margin: 0 0.5rem;
+}
+
+#main-projects h3 {
+    display: flex;
+    justify-content: center;
+    background-color: #F28705;
+    padding: 0.5rem 10rem;
+}
+
+#projects-description {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project-description {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem 0.5rem;
+}
+
+.project-description picture img{
+    width: 20rem;
+    padding: 0 0.5rem;
+}
